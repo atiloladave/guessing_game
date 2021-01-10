@@ -1,0 +1,21 @@
+html{
+    font-family: sans-serif;
+}
+
+body {
+    background:  burlywood;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+.lastResult {
+    color: brown;
+    padding: 3px;
+}
+
+img {
+    border-radius: 10%;
+    align-content: center;
+}
